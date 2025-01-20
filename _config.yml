@@ -1,14 +1,14 @@
 ## You should change each of the following fields
 ## to customize your blog
 
-title: Insights Unlocked - Leveraging Data Analysis as the Key to Business Success
+title: Insights Unlocked - Data Analysis as the Key to Business Success
 description: "A data science blog with a focus on business decision-making." 
 author: Sofia Scribner
 author_description: "I want to help you make data-driven decisions and gain insight into what the numbers really mean. My interests include marketing analytics, strategy, data visualization, predictive modeling, and consumer research."
 
 url: https://sofiadscribner.github.io ## change this to https://yourusername.github.io
 baseurl: /insights-unlocked-blog ## change this to the name of your blog repository
-header_image: /assets/key.jpg ## change your header image if you want
+header_image: /assets/img/key.jpg ## change your header image if you want
 
 ## Add your social media user names.  Github is required, the rest are optional
 social:
