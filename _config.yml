@@ -2,9 +2,9 @@
 ## to customize your blog
 
 title: Data Insights Unlocked
-description: "A data science blog with a focus on business decision-making." 
+description: "A data science blog with a focus on decision-making, data visualization, and business analysis." 
 author: Sofia Scribner
-author_description: "I want to help you make data-driven decisions and gain insight into what the numbers really mean. My interests include marketing analytics, strategy, data visualization, predictive modeling, and consumer research."
+author_description: "My name is Sofia Scribner, and I am pursuing a degree in Applied Statistics and Analytics. I want to help you make data-driven decisions and gain insight into what the numbers really mean. My interests include marketing analytics, strategy, data visualization, predictive modeling, and consumer research."
 
 url: https://sofiadscribner.github.io ## change this to https://yourusername.github.io
 baseurl: /insights-unlocked-blog ## change this to the name of your blog repository
