@@ -6,8 +6,6 @@ image: /assets/img/Tableau-Logo.jpg
 display_image: true
 ---
 
-![Tableau Logo]({{ site.baseurl }}/assets/img/Tableau-Logo.jpg)
-
 #### What are KPIs?
 
 A KPI is a Key Performance Indicator. KPIs are measurable factors that can demonstrate the success of an organization in achieving their goals. KPIs come from data, and they allow teams to make data-driven decisions about how to move forward. Some examples of KPIs in business include:
@@ -17,7 +15,7 @@ A KPI is a Key Performance Indicator. KPIs are measurable factors that can demon
 - Profit Margin
 - Customer Lifetime Value (CLV)
 
-In order to be an effective KPI, a measure should be specific, relevant, and achievable.
+There are many KPIs depending on the businuss or organization. In order to be an effective KPI, a measure should be specific, relevant, and achievable.
 
 #### Why Tableau?
 
@@ -31,3 +29,20 @@ So follow along with me as we create a simple KPI dashboard using Tableau's buil
 
 #### Step 1: Import the Data
 
+For this tutorial, we'll be using the Superstore dataset. It's built in with every Tableau installation.
+
+When you open Tableau, you'll see this homescreen:
+
+![Figure 1]({{site.url}}/{{site.baseurl}}/assets/img/tab-1.jpg)
+
+You have many different options for where to source your data from. Click the "Sample-Superstore" dataset.
+
+The next screen Tableau will give you is the Data Source tab:
+
+![Figure 2]({{site.url}}/{{site.baseurl}}/assets/img/tab-2.jpg)
+
+This tab gives you a chance to look over your data, and make sure it looks how you expected it to. 
+
+Check to see if qualitative variables are in blue. Tableau calls these dimensions. Quantitative variables, or measures as Tableau refers to them, should be displayed in green.
+
+You can also use this tab to make connections between multiple dataframes, which Tableau has automatically done for the three Superstore tables, People, Orders, and Returns.
