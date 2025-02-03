@@ -3,7 +3,10 @@ layout: post
 title:  "How to Build an Effective KPI Dashboard in Tableau"
 description: Turn raw data into actionable insights presented in a beautifully formatted dashboard for stakeholders to interact with.
 image: /assets/img/Tableau-Logo.jpg
+display_image: true
 ---
+
+![Tableau Logo]({{site.url}}/{{site.baseurl}}/assets/img/Tableau-Logo.jpg)
 
 #### What are KPIs?
 
