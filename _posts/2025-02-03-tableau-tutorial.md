@@ -57,7 +57,11 @@ Here is what the sheet looks like:
 
 ![Figure 3](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-3.png)
 
-Let's say that the executives at the Superstore have asked us to create a sales KPI dashboard. Let's start by making a line graph that will show the sales over time. On the left, we have all of our dimensions and measures. In the middle of the screen, we have the chart that we're creating.
+Let's say that the executives at the Superstore have asked us to create a sales KPI dashboard. 
+
+##### Time Series
+
+Let's start by making a line graph that will show the sales over time. On the left, we have all of our dimensions and measures. In the middle of the screen, we have the chart that we're creating.
 
 Start by double-clicking Sales and Order Date. Order Date should automatically populate in the columns section at the top of the screen and Sales goes to the rows.
 
@@ -71,7 +75,7 @@ To switch the x-axis to show months instead of years, right-click the date dimen
 
 Now we're seeing the data over months instead of years! We just need to filter out everything but 2024.
 
-In order to do this, go back to the variables on the left and drag Order Date to the filters box. Tableau assumes you want to filter out a range of dates, which is correct, so hit next.
+In order to do this, go back to the variables on the left and drag Order Date to the Filters box. Tableau assumes you want to filter out a range of dates, which is correct, so hit next.
 
 ![Figure 6](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-6.png)
 
@@ -83,4 +87,20 @@ Take some time to further refine the graph, adding labels, removing unneccessary
 
 ![Figure 8](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-8.png)
 
-Our graph of sales over time is ready!
+Our graph of sales over time is ready! 
+
+##### Bar Chart
+
+Another great KPI for Superstore sales data could be Top-Selling Categories. Let's make a bar chart to display these. Click the on the chart icon with a plus sign at the bottom of the screen to add another worksheet.
+
+Go to the variables on the left side of the screen and click the dropdown next to Product. Drag Sub-Category to the Rows. Drag Sales to the Columns. You should get a bar chart like this:
+
+![Figure 9](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-9.png)
+
+You can make the chart more readable by clicking the sort button at the top to put the bars in descending order.
+
+Again, the stakeholders are mostly focused on sales during 2024, so create the same time filter by dragging Order Date to the Filters box and focusing in on dates in 2024.
+
+The visualization would probably be more effective if we just limit it to the top 5 categories of merchandise. To do this, drag Sub-Category from the left onto the Filters box and select the Top tab at the top. Tell Tableau you want it to display the top 5 sub-categories by sum (or total) sales.
+
+![Figure 10](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-10.png)
