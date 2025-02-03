@@ -6,6 +6,7 @@ image: /assets/img/Tableau-Logo.jpg
 display_image: true
 ---
 
+![The Tableau Logo](/assets/img/Tableau-Logo.jpg "Tableau Logo")
 
 #### What are KPIs?
 
