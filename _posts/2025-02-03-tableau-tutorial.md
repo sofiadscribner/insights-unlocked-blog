@@ -121,6 +121,10 @@ This is where one of my favorite features of Tableau comes in! Clicking the Show
 
 ![Figure 13](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-13.png)
 
-This is exactly what we're looking for! Change the color to match the other visualizations, and rename the graph to something descriptive.
+This is exactly what we're looking for! Change the color to match the other visualizations, and rename the graph to something descriptive. Don't forget to only display data from 2024.
 
 ![Figure 14](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-14.png)
+
+#### Step 3: Creating the Dashboard
+
+Now comes the best part! 
