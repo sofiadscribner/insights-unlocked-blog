@@ -1,4 +1,3 @@
-```
 ---
 layout: post
 title:  "How to Build an Effective KPI Dashboard in Tableau"
@@ -6,7 +5,7 @@ description: Turn raw data into actionable insights presented in a beautifully f
 image: /assets/img/Tableau-Logo.jpg
 display_image: true
 ---
-```
+
 
 #### What are KPIs?
 
@@ -23,11 +22,9 @@ In order to be an effective KPI, a measure should be specific, relevant, and ach
 
 One extremely effective way to communicate KPIs to stakeholders is Tableau. Tableau allows data analysts to communicate findings in a clear, visually appealing, and interactive format. This is done through dashboards. Dashboards are your new best friend!
 
-The benefits of using a Tableau dashboard to communicate KPIs can't be overstated. Using dashboards, you can create tables and visualizations that stakeholders can actually interact with, for example, a customer demographic visualization that changes based on what region is selected.
+The benefits of using a Tableau dashboard to communicate KPIs can't be overstated. Using dashboards, you can create tables and visualizations with filters that stakeholders can interact with. Additionally, Tableau can be connected to a database or spreadsheet and automatically refresh as new data becomes available.
 
-Another huge advantage of using Tableau is that you can use it to produce real-time, updated insights as data comes in. Tableau can be connected to a database or spreadsheet and automatically refresh as new data becomes available.
-
-Lastly, one of the best things about Tableau is that the visualizations you can create with it are ***simply beautiful***. In a matter of minutes, you can produce charts and graphs that are sleek, professional, and very aesthetically pleasing.
+One of the best things about Tableau is that the visualizations you can create with it are ***simply beautiful***. In a matter of minutes, you can produce charts and graphs that are sleek, professional, and very aesthetically pleasing.
 
 So follow along with me as we create a simple KPI dashboard using Tableau's built in practice data, the Superstore dataset!
 
