@@ -52,3 +52,15 @@ Click the Sheet 1 tab.
 #### Step 2: Create Visualizations
 
 Now that we've got our data, we can start visualizing it. Each of our four graphs is going to have its own sheet in Tableau.
+
+Here is what the sheet looks like:
+
+![Figure 3](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-3.png)
+
+Let's say that the executives at the Superstore have asked us to create a sales KPI dashboard. Let's start by making a line graph that will show the sales growth (%) over time. On the left, we have all of our dimensions and measures. In the middle of the screen, we have the chart that we're creating.
+
+Start by double-clicking Sales and Order Date. Order Date should automatically go the columns section at the top of the screen and Sales goes to the rows.
+
+![Figure 4](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-4.png)
+
+Now we have a line graph of sales over time. But we're interested in sales growth (%). We will need to create a new calculated field for this.
