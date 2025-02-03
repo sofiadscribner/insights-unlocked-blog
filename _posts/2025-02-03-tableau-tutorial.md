@@ -75,7 +75,7 @@ In order to do this, go back to the variables on the left and drag Order Date to
 
 ![Figure 6](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-6.png)
 
-Edit the starting data to be 1/1/2024 and hit OK. Now the line graph is showing the KPI we're looking for.
+Edit the starting date to be 1/1/2024 and hit OK. Now the line graph is showing the KPI we're looking for.
 
 ![Figure 7](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-7.png)
 
