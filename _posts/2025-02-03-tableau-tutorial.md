@@ -127,4 +127,16 @@ This is exactly what we're looking for! Change the color to match the other visu
 
 #### Step 3: Creating the Dashboard
 
-Now comes the best part! 
+Now comes the best part! We can put all of these KPI visualizations together into one functional and beautiful dashboard.
+
+To begin, click the New Dashboard button at the bottom of the screen:
+
+![Figure 15](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-15.png)
+
+Clicking that will bring us to a blank dashboard. We can create the dashboard by dragging sheets to the center, the same way we dragged variables over to create sheets. Start by double-clicking the line graph.
+
+![Figure 16](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-16.png)
+
+Now we can add our other visualizations as well. We want them to be below the graph of sales over time, so drag a Horizontal Container from the Objects section to under the line graph. Drag the map and bar chart to their places as well.
+
+![Figure 17](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-17.png)
