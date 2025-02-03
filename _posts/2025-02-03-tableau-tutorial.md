@@ -140,3 +140,17 @@ Clicking that will bring us to a blank dashboard. We can create the dashboard by
 Now we can add our other visualizations as well. We want them to be below the graph of sales over time, so drag a Horizontal Container from the Objects section to under the line graph. Drag the map and bar chart to their places as well.
 
 ![Figure 17](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-17.png)
+
+We now have an incredible way to view all our sales KPIs in one place. We'll add one final detail to make this dashboard even more useful to the stakeholders. 
+
+To allow viewers to filter by state/province, click on the map visualization, and click the Use as Filter button.
+
+![Figure 18](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-18.png)
+
+Now, if a viewer wants to filter the entire dashboard by a state or province, they can simply click it on the map, and all 3 visualizations will adjust accordingly. For example, when New York is selected, the dashboard looks like this:
+
+![Figure 19](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-19.png)
+
+#### Conclusion
+
+Creating a KPI dashboard in Tableau is a simple yet effective way to communicate key information to those who need it. While the KPIs will differ depending on the organization and its goals, Tableau is a flexible software, and I've barely sratched the surface of what it can do. I love Tableau because it helps me use data to tell stories that need to be told in an eye-catching and professional way. Hopefully now you love it too!
