@@ -57,10 +57,21 @@ Here is what the sheet looks like:
 
 ![Figure 3](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-3.png)
 
-Let's say that the executives at the Superstore have asked us to create a sales KPI dashboard. Let's start by making a line graph that will show the sales growth (%) over time. On the left, we have all of our dimensions and measures. In the middle of the screen, we have the chart that we're creating.
+Let's say that the executives at the Superstore have asked us to create a sales KPI dashboard. Let's start by making a line graph that will show the sales over time. On the left, we have all of our dimensions and measures. In the middle of the screen, we have the chart that we're creating.
 
-Start by double-clicking Sales and Order Date. Order Date should automatically go the columns section at the top of the screen and Sales goes to the rows.
+Start by double-clicking Sales and Order Date. Order Date should automatically populate in the columns section at the top of the screen and Sales goes to the rows.
 
 ![Figure 4](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-4.png)
 
-Now we have a line graph of sales over time. But we're interested in sales growth (%). We will need to create a new calculated field for this.
+Now we have a line graph of sales over time. Let's refine this a little bit. Say the executives are most interested in looking at the data from month to month, only for the year 2024.
+
+To switch the x-axis to show months instead of years, right-click the date dimension and select Month on the dropdown.
+
+![Figure 5](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-5.png)
+
+Now we're seeing the data over months instead of years! We just need to filter out everything but 2024.
+
+In order to do this, go back to the variables on the left and drag Order Date to the filters box. Tableau assumes you want to filter out a range of dates, which is correct, so hit next.
+
+![Figure 6](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-6.png)
+
