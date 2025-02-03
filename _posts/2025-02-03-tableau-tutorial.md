@@ -108,3 +108,19 @@ The visualization would probably be more effective if we just limit it to the to
 Now we can again make some minor adjustments based on aesthetic choices. We'll end up with a bar chart that looks like this:
 
 ![Figure 11](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-11.png)
+
+##### Map Visualization
+
+So far, these KPIs are specific, relevant, and achieveable, so we're on the right track. The last visualization we'll add for this simple example is a way to determine sales by location within the United States and Canada.
+
+Create a new sheet, and double-click Sales. Go to the drop down under Region and double click State/Province. You'll be presented with this bar chart which is not very enlightening:
+
+![Figure 12](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-12.png)
+
+This is where one of my favorite features of Tableau comes in! Clicking the Show Me button in the top-right corner opens up a menu of potential visualizations for the variables we've selected. Click the second map, which shows different shades of red. Tableau generates this map with darker shading in regions with higher sales:
+
+![Figure 13](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-13.png)
+
+This is exactly what we're looking for! Change the color to match the other visualizations, and rename the graph to something descriptive.
+
+![Figure 14](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-14.png)
