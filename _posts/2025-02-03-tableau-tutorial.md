@@ -63,7 +63,7 @@ Start by double-clicking Sales and Order Date. Order Date should automatically p
 
 ![Figure 4](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-4.png)
 
-Now we have a line graph of sales over time. Let's refine this a little bit. Say the executives are most interested in looking at the data from month to month, only for the year 2024.
+Now we have a line graph of sales over time. Let's refine this a little bit. Say the executives are most interested in looking at the data from month to month for the year 2024.
 
 To switch the x-axis to show months instead of years, right-click the date dimension and select Month on the dropdown.
 
@@ -75,3 +75,12 @@ In order to do this, go back to the variables on the left and drag Order Date to
 
 ![Figure 6](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-6.png)
 
+Edit the starting data to be 1/1/2024 and hit OK. Now the line graph is showing the KPI we're looking for.
+
+![Figure 7](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-7.png)
+
+Take some time to further refine the graph, adding labels, removing unneccessary text, and changing the color. Tableau's interface is fairly intuitive for this sort of thing.
+
+![Figure 8](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-8.png)
+
+Our graph of sales over time is ready!
