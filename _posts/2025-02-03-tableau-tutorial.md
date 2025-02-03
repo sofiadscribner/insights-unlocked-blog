@@ -6,7 +6,7 @@ image: /assets/img/Tableau-Logo.jpg
 display_image: true
 ---
 
-![Tableau Logo]({{site.url}}/{{site.baseurl}}/assets/img/Tableau-Logo.jpg)
+![Tableau Logo]({{ site.baseurl }}/assets/img/Tableau-Logo.jpg)
 
 #### What are KPIs?
 
