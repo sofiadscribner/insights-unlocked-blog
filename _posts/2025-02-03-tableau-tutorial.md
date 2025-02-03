@@ -104,3 +104,7 @@ Again, the stakeholders are mostly focused on sales during 2024, so create the s
 The visualization would probably be more effective if we just limit it to the top 5 categories of merchandise. To do this, drag Sub-Category from the left onto the Filters box and select the Top tab at the top. Tell Tableau you want it to display the top 5 sub-categories by sum (or total) sales.
 
 ![Figure 10](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-10.png)
+
+Now we can again make some minor adjustments based on aesthetic choices. We'll end up with a bar chart that looks like this:
+
+![Figure 11](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tab-11.png)
