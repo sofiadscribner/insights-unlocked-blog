@@ -33,16 +33,18 @@ For this tutorial, we'll be using the Superstore dataset. It's built in with eve
 
 When you open Tableau, you'll see this homescreen:
 
-![Figure 1]({{site.url}}/{{site.baseurl}}/assets/img/tab-1.jpg)
+![Figure 1]({{site.url}}/{{site.baseurl}}/assets/img/tab-1.png)
 
 You have many different options for where to source your data from. Click the "Sample-Superstore" dataset.
 
 The next screen Tableau will give you is the Data Source tab:
 
-![Figure 2]({{site.url}}/{{site.baseurl}}/assets/img/tab-2.jpg)
+![Figure 2]({{site.url}}/{{site.baseurl}}/assets/img/tab-2.png)
 
 This tab gives you a chance to look over your data, and make sure it looks how you expected it to. 
 
 Check to see if qualitative variables are in blue. Tableau calls these dimensions. Quantitative variables, or measures as Tableau refers to them, should be displayed in green.
 
 You can also use this tab to make connections between multiple dataframes, which Tableau has automatically done for the three Superstore tables, People, Orders, and Returns.
+
+#### Step 2: Create Visualizations
