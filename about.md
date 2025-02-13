@@ -24,8 +24,8 @@ title: About
 <div class="about-container">
   <img src="https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/portrait.jpg" alt="Sofia Scribner">
   <div>
+    <h2>About Me</h2>
+    <p>{{ site.author_description }}</p>
+  </div>
 </div>
-
-## About Me
-{{site.author_description}}
 
