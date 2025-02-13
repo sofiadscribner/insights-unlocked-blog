@@ -22,7 +22,7 @@ title: About
 {{site.description}}
 
 <div class="about-container">
-  <img src="/assets/img/portrait.jpg" alt="Sofia Scribner">
+  <img src="https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/portrait.jpg" alt="Sofia Scribner">
   <div>
 </div>
 
