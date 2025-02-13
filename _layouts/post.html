@@ -15,7 +15,10 @@ layout: default
 
   <hr>
 
-  <h2 class="post-second-title"> {{page.title}} </h2>
+  {% unless page.hide_title %}
+  <h2 class="post-second-title">{{ page.title }}</h2>
+  {% endunless %}
+
 
 
   {{ content }}
