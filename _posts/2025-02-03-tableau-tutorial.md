@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tableau Made Easy: Creating KPI Dashboards That Drive Actionable Insights "
+title:  "Tableau Made Easy: Creating KPI Dashboards That Drive Actionable Insights"
 description: Turn raw data into useful visualizations presented in a beautifully formatted dashboard for stakeholders to interact with.
 image: /assets/img/Tableau-Logo.png
 display_image: true
