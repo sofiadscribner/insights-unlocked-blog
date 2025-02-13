@@ -22,9 +22,10 @@ title: About
 {{site.description}}
 
 <div class="about-container">
-  <img src="/assets/portrait.jpg" alt="Your Name">
+  <img src="/assets/img/portrait.jpg" alt="Sofia Scribner">
   <div>
-    ## About Me  
-    {{site.author_description}}
-  </div>
 </div>
+
+## About Me
+{{site.author_description}}
+
