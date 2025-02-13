@@ -10,7 +10,7 @@ title: About
 }
 
 .about-container img {
-  width: 150px; /* Adjust size as needed */
+  width: 200px; /* Adjust size as needed */
   height: auto;
   border-radius: 50%; /* Makes it circular */
   margin-right: 20px;
