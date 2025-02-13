@@ -15,7 +15,7 @@ A KPI is a Key Performance Indicator. KPIs are measurable factors that can demon
 - Profit Margin
 - Customer Lifetime Value (CLV)
 
-There are many KPIs depending on the businuss or organization. In order to be an effective KPI, a measure should be specific, relevant, and achievable.
+There are many KPIs depending on the business or organization. In order to be an effective KPI, a measure should be specific, relevant, and achievable.
 
 #### Why Tableau?
 
@@ -29,7 +29,7 @@ So follow along with me as we create a simple KPI dashboard using Tableau's buil
 
 #### Step 1: Import the Data
 
-For this tutorial, we'll be using the Superstore dataset. It's built in with every Tableau installation.
+For this tutorial, we'll be using the Superstore dataset. It's built in with every Tableau installation. The data is meant to simulate sales data from a huge retailer.
 
 When you open Tableau, you'll see this homescreen:
 
