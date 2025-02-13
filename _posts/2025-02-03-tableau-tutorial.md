@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "How to Build an Effective KPI Dashboard in Tableau"
-description: Turn raw data into actionable insights presented in a beautifully formatted dashboard for stakeholders to interact with.
-image: /assets/img/Tableau-Logo.jpg
+title:  "Tableau Made Easy: Creating KPI Dashboards That Drive Actionable Insights "
+description: Turn raw data into useful visualizations presented in a beautifully formatted dashboard for stakeholders to interact with.
+image: /assets/img/Tableau-Logo.png
 display_image: true
 ---
 
