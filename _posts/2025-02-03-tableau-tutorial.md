@@ -152,6 +152,6 @@ Now, if a viewer wants to filter the entire dashboard by a state or province, th
 
 Creating a KPI dashboard in Tableau is a simple yet effective way to communicate key information to those who need it. While the KPIs will differ depending on the organization and its goals, Tableau is a flexible software, and I've barely sratched the surface of what it can do. I love Tableau because it helps me use data to tell stories that need to be told in an eye-catching and professional way. 
 
-Now it's your turn! I invite you to expiriment with the Superstore dataset and see if you can recreate my dashboard, along with any other interesting KPIs you can visualize.
+Now it's your turn! I invite you to expiriment with the Superstore dataset and see if you can recreate my dashboard, along with any other interesting KPIs you can visualize. Additionally, check out [Tableau Public](https://public.tableau.com/app/discover), an online platform to share Tableau visualizations with others. It's a great place to go for inspiration.
 
 If you enjoyed this tutorial or have any feedback, feel free to let me know through [LinkedIn](https://linkedin.com/in/sofia-scribner)!
