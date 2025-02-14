@@ -8,7 +8,7 @@ author_description: "My name is Sofia Scribner, and I am pursuing a degree in Ap
 
 url: https://sofiadscribner.github.io ## change this to https://yourusername.github.io
 baseurl: /insights-unlocked-blog ## change this to the name of your blog repository
-header_image: /assets/img/key.png ## change your header image if you want
+header_image: /assets/img/final_key.png ## change your header image if you want
 
 ## Add your social media user names.  Github is required, the rest are optional
 social:
