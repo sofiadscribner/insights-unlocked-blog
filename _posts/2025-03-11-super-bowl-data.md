@@ -92,3 +92,15 @@ Using Python for some quick summary statistics from my data, I answered some of 
 ```
 - **What are the top 10 most viewed Super Bowl 2024 ads on Youtube?**
  ![Figure 5](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/youtube_top_ten.png)
+
+ I am already uncovering some great insights so far, and I am looking forward to creating models and visualizations with the data I've gathered, cleaned, and curated.
+
+ ### Link to Code
+
+ All of the code and data I've used for this project so far can be found in [this GitHub repo](https://github.com/sofiadscribner/Super_Bowl_Project). Feel free to check it out!
+
+ ### Conclusion
+
+ Brands spend an estimated $650 million on Super Bowl ads in 2024. As data-driven marketers, it is vital to know whether spend like this is truly worth it. Using the data I've gathered, and statistical analysis, I will be able to better understand the answer to the question how did Super Bowl 2024 ads affect short-term brand reach and influence?
+
+ What did you think about my methods? Is there a simpler way to implement some of the techniques I used here? Is there another source of data that could be helpful to answer my question of interest? Let me know! As always, I'd love to connect through LinkedIn.
