@@ -60,4 +60,35 @@ One of my favorite data sources for this project was Google Trends. Using data t
 
  ### Other Data
 
- I also gathered data from a few other sources to create a more well-rounded project. YouGov and The Harris Poll both released polling data on how audiences responded to Super Bowl 2024 ads in marketing terms. They studied whether brands that advertised during the event increased their familiarity, or liklihood of being purchased, for example. These reports came in PDF format, and while there are packages that allow you to scrape PDFs in Python, the tables weren't formatted in an easily scrapable way, so I ended up manually copying the data into my dataset. Additionally, I was interested in what effect celebrity endorsements had on the success of an ad, so I created my own variable by observing whether or not each ad featured celebrities.
+ I also gathered data from a few other sources to create a more well-rounded project. YouGov and The Harris Poll both released polling data on how audiences responded to Super Bowl 2024 ads in marketing terms. They studied whether brands that advertised during the event increased their familiarity, or liklihood of being purchased, for example. These reports came in PDF format, and while there are packages that allow you to scrape PDFs in Python, the tables weren't formatted in an easily scrapable way, so I ended up manually copying the data into my dataset. 
+ 
+ Additionally, I was interested in what effect celebrity endorsements had on the success of an ad, so I created my own variable by observing whether or not each ad featured celebrities.
+
+ ### Final Dataset
+
+The last step was using Python to concatenate the data and curate it. Here is a screen grab of what my final dataset looks like (there are a few more polling variables that didn't fit in the image). I can't wait to explore it more, and start creating models that better explain the phenomena it describes.
+
+ ![Figure 4](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/df.png)
+
+ ### Some Initial Insights
+
+Using Python for some quick summary statistics from my data, I answered some of these questions of interest:
+
+- **What percentage of Super Bowl 2024 ads contained celebrities?** About 55.56%
+- **What percentage of the brands involved experienced their five-year peak in Google search popularity on the week of their Super Bowl 2024 ad?** About 20.63%
+- **Which ads had the best like-to-view ratios on Youtube? (a common metric for good video reception)**
+```
+                       Title       Advertiser/product     ratio
+1           "Can't B Broken"                  Verizon  0.025675
+2                    Trailer                   Wicked  0.019856
+3          "American Values"     American Values 2024  0.017728
+4                   Knuckles               Paramount+  0.016267
+5           "Having a Blast"  Mountain Dew Baha Blast  0.012832
+6            "Love Triangle"                   Starry  0.009895
+7        "Worth Remembering"                Uber Eats  0.008362
+8      "Talkin' Like Walken"                      BMW  0.008290
+9          Here's to Science                   Pfizer  0.008192
+10  "An American Love Story"               Volkswagen  0.007743
+```
+- **What are the top 10 most viewed Super Bowl 2024 ads on Youtube?**
+ ![Figure 5](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/youtube_top_ten.png)
