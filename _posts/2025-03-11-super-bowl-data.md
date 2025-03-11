@@ -103,4 +103,4 @@ Using Python for some quick summary statistics from my data, I answered some of 
 
  Brands spend an estimated $650 million on Super Bowl ads in 2024. As data-driven marketers, it is vital to know whether spend like this is truly worth it. Using the data I've gathered, and statistical analysis, I will be able to better understand the answer to the question how did Super Bowl 2024 ads affect short-term brand reach and influence?
 
- What did you think about my methods? Is there a simpler way to implement some of the techniques I used here? Is there another source of data that could be helpful to answer my question of interest? Let me know! As always, I'd love to connect through LinkedIn.
+ What did you think about my methods? Is there a simpler way to implement some of the techniques I used here? Is there another source of data that could be helpful to answer my question of interest? Let me know! As always, I'd love to connect through [LinkedIn](https://www.linkedin.com/in/sofia-scribner/).
