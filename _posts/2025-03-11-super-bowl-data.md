@@ -50,4 +50,8 @@ The main challenge with this method is just making sure to understand the differ
 
 ### Google Trends
 
-One of my favorite data sources for this project was Google Trends.
+One of my favorite data sources for this project was Google Trends. Using data that Google has made publicly available [here](https://trends.google.com/trends/), you can see the evolution of any search term's popularity over time. You enter a date range of interest along with a search term of interest, and Google will display its relative popularity over that time period.
+
+![Figure 3](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/google.png)
+
+ For example, Cerave's score of 100 on February 11th, 2024, shows me that interest in that search term had a five year peak on the week that CeraVe's ad featuring Michael Cera aired during the Super Bowl.
