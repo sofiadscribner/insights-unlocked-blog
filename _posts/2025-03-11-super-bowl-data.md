@@ -6,7 +6,7 @@ image: /assets/img/Super-Bowl-Logo.png
 display_image: true
 hide_title: true
 ---
-### The Big Game
+## The Big Game
 
 Making it to the Super Bowl is the dream of many athletes, but it's also a coveted night for marketing professionals. Every year, brands line up to fork over millions of dollars for a chance to have a 30-second ad spot during the event, which an estimated 127.7 million viewers tuned in for in 2025. Advertisers aim to capitalize on the large audience, and Super Bowl ads have become a part of the Big Game experience. Many people even watch just to enjoy the ads, polling shows. But is the price of the ad spot, production, and extravagant celebrity endorsements actually worth it for the companies?
 
@@ -54,23 +54,23 @@ One of my favorite data sources for this project was Google Trends. Using data t
 
 ![Figure 3](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/google.png)
 
- For example, Cerave's score of 100 on February 11th, 2024, shows me that interest in that search term had a five year peak on the week that CeraVe's ad featuring Michael Cera aired during the Super Bowl.
+For example, Cerave's score of 100 on February 11th, 2024, shows me that interest in that search term had a five year peak on the week that CeraVe's ad featuring Michael Cera aired during the Super Bowl.
 
- This data can be easily downloaded in CSV format. I downloaded the reports for each of the brands, then used Python to loop through the CSVs, gathering the relative search popularity measurement for February 11th, 2024, as well as creating a binary variable simply indicating whether or not the brand had its peak search popularity on that week.
+This data can be easily downloaded in CSV format. I downloaded the reports for each of the brands, then used Python to loop through the CSVs, gathering the relative search popularity measurement for February 11th, 2024, as well as creating a binary variable simply indicating whether or not the brand had its peak search popularity on that week.
 
- ### Other Data
+### Other Data
 
- I also gathered data from a few other sources to create a more well-rounded project. YouGov and The Harris Poll both released polling data on how audiences responded to Super Bowl 2024 ads in marketing terms. They studied whether brands that advertised during the event increased their familiarity, or liklihood of being purchased, for example. These reports came in PDF format, and while there are packages that allow you to scrape PDFs in Python, the tables weren't formatted in an easily scrapable way, so I ended up manually copying the data into my dataset. 
+I also gathered data from a few other sources to create a more well-rounded project. YouGov and The Harris Poll both released polling data on how audiences responded to Super Bowl 2024 ads in marketing terms. They studied whether brands that advertised during the event increased their familiarity, or liklihood of being purchased, for example. These reports came in PDF format, and while there are packages that allow you to scrape PDFs in Python, the tables weren't formatted in an easily scrapable way, so I ended up manually copying the data into my dataset. 
  
- Additionally, I was interested in what effect celebrity endorsements had on the success of an ad, so I created my own variable by observing whether or not each ad featured celebrities.
+Additionally, I was interested in what effect celebrity endorsements had on the success of an ad, so I created my own variable by observing whether or not each ad featured celebrities.
 
- ### Final Dataset
+### Final Dataset
 
 The last step was using Python to concatenate the data and curate it. Here is a screen grab of what my final dataset looks like (there are a few more polling variables that didn't fit in the image). I can't wait to explore it more, and start creating models that better explain the phenomena it describes.
 
- ![Figure 4](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/df.png)
+![Figure 4](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/df.png)
 
- ### Some Initial Insights
+### Some Initial Insights
 
 Using Python for some quick summary statistics from my data, I answered some of these questions of interest:
 
@@ -91,16 +91,16 @@ Using Python for some quick summary statistics from my data, I answered some of 
 10  "An American Love Story"               Volkswagen  0.007743
 ```
 - **What are the top 10 most viewed Super Bowl 2024 ads on YouTube?**
- ![Figure 5](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/youtube_top_ten.png)
+![Figure 5](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/youtube_top_ten.png)
 
- I am already uncovering some great insights so far, and I am looking forward to creating models and visualizations with the data I've gathered, cleaned, and curated.
+I am already uncovering some great insights so far, and I am looking forward to creating models and visualizations with the data I've gathered, cleaned, and curated.
 
- ### Link to Code
+### Link to Code
 
- All of the code and data I've used for this project so far can be found in [this GitHub repo](https://github.com/sofiadscribner/Super_Bowl_Project). Feel free to check it out!
+All of the code and data I've used for this project so far can be found in [this GitHub repo](https://github.com/sofiadscribner/Super_Bowl_Project). Feel free to check it out!
 
- ### Conclusion
+### Conclusion
 
- Brands spend an estimated $650 million on Super Bowl ads in 2024. As data-driven marketers, it is vital to know whether spend like this is truly worth it. Using the data I've gathered, and statistical analysis, I will be able to better understand the answer to the question how did Super Bowl 2024 ads affect short-term brand reach and influence?
+Brands spend an estimated $650 million on Super Bowl ads in 2024. As data-driven marketers, it is vital to know whether spend like this is truly worth it. Using the data I've gathered, and statistical analysis, I will be able to better understand the answer to the question how did Super Bowl 2024 ads affect short-term brand reach and influence?
 
- What did you think about my methods? Is there a simpler way to implement some of the techniques I used here? Is there another source of data that could be helpful to answer my question of interest? Let me know! As always, I'd love to connect through [LinkedIn](https://www.linkedin.com/in/sofia-scribner/).
+What did you think about my methods? Is there a simpler way to implement some of the techniques I used here? Is there another source of data that could be helpful to answer my question of interest? Let me know! As always, I'd love to connect through [LinkedIn](https://www.linkedin.com/in/sofia-scribner/).
