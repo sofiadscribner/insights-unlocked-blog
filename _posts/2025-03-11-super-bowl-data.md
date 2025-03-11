@@ -2,7 +2,7 @@
 layout: post
 title:  "Scoring Big with Super Bowl Ad Data: Web Scraping, APIs, and More!"
 description: Curating the perfect dataset to answer marketing questions doesn't have to be complicated. In this post, I'll let you in on the techniques I used to create my Super Bowl Ad dataset.
-image: /assets/img/Super_Bowl-Logo.png
+image: /assets/img/Super-Bowl-Logo.png
 display_image: true
 hide_title: true
 ---
