@@ -20,7 +20,7 @@ Using data from Youtube, Google, Wikipedia, marketing reports, and my own observ
 
 ### The Ethics of Data Collection
 
-Data is power. That's why it's important to be ethical about the way we collect it, especially through web scraping. Before webscraping, it's important to check out the robots.txt page on the site of interest. Because I was going to scrape from Wikipedia, I used their robots.txt page to make sure I was allowed to do so. Here is what that looks like:
+Data is power. That's why it's important to be ethical about the way we collect it, especially through web scraping. Before webscraping, it's important to check out the robots.txt page on the site of interest. Because I was going to scrape from Wikipedia, I used [their robots.txt page](https://en.wikipedia.org/robots.txt) to make sure I was allowed to do so. Here is what that looks like:
 
 ![Figure 1](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/robots.png)
 
@@ -41,3 +41,13 @@ Wikipedia articles often have a variety of tables that are pretty simple to web 
 Because this Wikipedia table had sub-categories for each type of product being advertised, I had to adjust my code a few times to make sure I included those correctly in my dataframe. I also had to manually correct a few lines of my data. Web scraping is rarely perfect, because the source html is rarely perfect, but it's a very useful tool for quick data collection.
 
 ### APIs (Youtube)
+
+APIs or Application Programming Interfaces are a set of protocols that allow applications to communicate with each other. In my case, I wanted to communicate with Youtube's API to download data for many videos in a quick and effective way. Youtube has a very extensive and well documented API, which you can find linked [here](https://developers.google.com/youtube/v3/docs/). I created my own developer portal and generated an API key, which allowed me to access the API.
+
+In order to get the data I wanted, I went to Youtube and gathered the video IDs of the videos I was interested in. I then used Python to loop through the video IDs, making requests to the API and gathering the stats I was interested in. That code can be found in the project repo.
+
+The main challenge with this method is just making sure to understand the different endpoints of the API you want to use. An endpoint is a URL that corresponds to a function or resource within an API. Every API's endpoints are different, and each require different parameters. A really helpful video for understanding Youtube's API can be found [here](https://youtu.be/D56_Cx36oGY?si=em14cpnwbhVNsQjj) One thing I had to adjust for was that Youtube only allows 50 video IDs at a time to be requested, so I had to break my videos into two chunks. However, once I understood Youtube's videos endpoint, getting the data I needed was simple.
+
+### Google Trends
+
+One of my favorite data sources for this project was Google Trends.
