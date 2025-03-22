@@ -66,7 +66,7 @@ Additionally, I was interested in what effect celebrity endorsements had on the 
 
 #### Final Dataset
 
-The last step was using Python to concatenate the data and curate it. Here is a screengrab of what my final dataset looks like (there are a few more polling variables that didn't fit in the image). I can't wait to explore it more, and start creating models that better explain the phenomena it describes.
+The last step was using Python to concatenate the data and curate it. Here is a screengrab of what my final dataset looks like (there are a few more polling variables that didn't fit in the image). I can't wait to explore it more, and start creating models that better explain the phenomena it describes. Using this data, brands could make decisions about whether to make a Super Bowl ad, whether it's worth the price to include a celebrity in the ad, and more.
 
 ![Figure 4](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/df.png)
 
