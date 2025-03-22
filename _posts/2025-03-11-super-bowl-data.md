@@ -54,19 +54,19 @@ One of my favorite data sources for this project was Google Trends. Using data t
 
 ![Figure 3](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/google.png)
 
-For example, Cerave's score of 100 on February 11th, 2024, shows me that interest in that search term had a five year peak on the week that CeraVe's ad featuring Michael Cera aired during the Super Bowl.
+For example, CeraVe's score of 100 on February 11th, 2024, shows me that interest in that search term had a five year peak on the week that CeraVe's ad featuring Michael Cera aired during the Super Bowl.
 
 This data can be easily downloaded in CSV format. I downloaded the reports for each of the brands, then used Python to loop through the CSVs, gathering the relative search popularity measurement for February 11th, 2024, as well as creating a binary variable simply indicating whether or not the brand had its peak search popularity on that week.
 
 #### Other Data
 
-I also gathered data from a few other sources to create a more well-rounded project. YouGov and The Harris Poll both released polling data on how audiences responded to Super Bowl 2024 ads in marketing terms. They studied whether brands that advertised during the event increased their familiarity, or liklihood of being purchased, for example. These reports came in PDF format, and while there are packages that allow you to scrape PDFs in Python, the tables weren't formatted in an easily scrapable way, so I ended up manually copying the data into my dataset. 
+I also gathered data from a few other sources to create a more well-rounded project. YouGov and The Harris Poll both released polling data on how audiences responded to Super Bowl 2024 ads in marketing terms. They studied whether brands that advertised during the event increased their familiarity, or likelihood of being purchased, for example. These reports came in PDF format, and while there are packages that allow you to scrape PDFs in Python, the tables weren't formatted in an easily scrapeable way, so I ended up manually copying the data into my dataset. 
  
 Additionally, I was interested in what effect celebrity endorsements had on the success of an ad, so I created my own variable by observing whether or not each ad featured celebrities.
 
 #### Final Dataset
 
-The last step was using Python to concatenate the data and curate it. Here is a screen grab of what my final dataset looks like (there are a few more polling variables that didn't fit in the image). I can't wait to explore it more, and start creating models that better explain the phenomena it describes.
+The last step was using Python to concatenate the data and curate it. Here is a screengrab of what my final dataset looks like (there are a few more polling variables that didn't fit in the image). I can't wait to explore it more, and start creating models that better explain the phenomena it describes.
 
 ![Figure 4](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/df.png)
 
@@ -83,7 +83,7 @@ Using Python for some quick summary statistics from my data, I answered some of 
 2                    Trailer                   Wicked  0.019856
 3          "American Values"     American Values 2024  0.017728
 4                   Knuckles               Paramount+  0.016267
-5           "Having a Blast"  Mountain Dew Baha Blast  0.012832
+5           "Having a Blast"  Mountain Dew Baja Blast  0.012832
 6            "Love Triangle"                   Starry  0.009895
 7        "Worth Remembering"                Uber Eats  0.008362
 8      "Talkin' Like Walken"                      BMW  0.008290
