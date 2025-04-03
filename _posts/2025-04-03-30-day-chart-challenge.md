@@ -15,7 +15,7 @@ Each April, data viz professionals from around the world participate in the [30 
 
 Because I've recently learned Tableau, as well as becoming more confident in my data visualization skills in Python, I was inspired to participate in the challenge! Even though half of this month is going to be consumed by my final exams for school, I still wanted to have a personal project that would remind me why I'm studying statistics and that data can be fun! We will see how this goes. I think it will also be a good test of my diligence.
 
-I will display each chart and my explanations here, and I'll list the data sources and the software used to create each on at the bottom. Additionally, [this Github repo]() contains all the code and data.
+I will display each chart and my explanations here, and I'll list the data sources and the software used to create each on at the bottom. Additionally, [this Github repo](https://github.com/sofiadscribner/30-day-chart-challenge) contains all the code and data.
 
 ### Category 1: Comparisons
 
@@ -30,6 +30,10 @@ For the first prompt, I chose to visualize data about the increasing importance 
 ![Figure 3](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/day-2.png)
 
 For day two, I'll be honest, I forgot a little bit about the overarching category of comparisons. I focused a lot on "slope." I'm still getting the hang of how this challenge works! For today's chart I chose to visualize the relationship between the basketball ability of an NBA player and the size of their Instagram following, with a focus on the players that had an unusually low or unusually high number of followers for their skill level.
+
+#### Day 3 - Circular
+
+
 
 ##### Footnotes
 
