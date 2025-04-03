@@ -17,8 +17,12 @@ Because I've recently learned Tableau, as well as becoming more confident in my 
 
 ### Category 1: Comparisons
 
-![Figure 2](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/day-1.png)
-
-
 #### Day 1 - Fractions
 
+![Figure 2](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/day-1.png)
+
+For the first prompt, I chose to visualize data about the increasing importance of influencer marketing for Gen Z. When I thought of the prompt "fractions," a stacked bar chart immediately came to mind. These charts are great for comparing proportions among different populations. I used Tableau to create the chart, and I got the data from [this KS&R article about influencer marketing](https://www.ksrinc.com/how-much-influence-influencers-have/).
+
+#### Day 2 - Slope
+
+![Figure 3](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/day-2.png)
