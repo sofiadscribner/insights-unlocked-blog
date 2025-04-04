@@ -33,10 +33,14 @@ For day two, I'll be honest, I forgot a little bit about the overarching categor
 
 #### Day 3 - Circular
 
+![Figure 4](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/donut.png)
 
+For today's chart challenge, I chose to use a donut chart to compare the way I allocate my time to each category on Thursdays. Donut charts are a more palletable version of a classic pie chart, in my opinion, but still not the most visually interpretable.
 
 ##### Footnotes
 
 *Day 1: I used Tableau to create the chart, and I got the data from [this KS&R article about influencer marketing](https://www.ksrinc.com/how-much-influence-influencers-have/).*
 
 *Day 2: The player performance data was from the [Official NBA Stats site](https://www.nba.com/stats), and the Instagram data was from [this website](https://www.popularbasketballers.com/), which gathers Instagram data for popular basketball players and is updated regularly. The visualization was made using Tableau.*
+
+*Day 3:  I used the seaborn package in python to create this chart, and the data was calculated from my own life experiences.*
