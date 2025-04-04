@@ -41,7 +41,7 @@ For today's chart challenge, I chose to use a donut chart to compare the way I a
 
 ![Figure 4](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/gdp.png)
 
-For today's prompt, I wanted to visualize the difference in per capita GDP between the richest and poorest country. I also added the United States as a point of reference. I played arond with the colors and labels a bit on this one, and I'm happy with how it turned out. I think it communicates the message clearly.
+For today's prompt, I wanted to visualize the difference in per capita GDP between the richest and poorest country. I also added the United States as a point of reference. I played around with the colors and labels a bit on this one, and I'm happy with how it turned out. I think it communicates the message clearly.
 
 ##### Footnotes
 
