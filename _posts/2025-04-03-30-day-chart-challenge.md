@@ -43,4 +43,4 @@ For today's chart challenge, I chose to use a donut chart to compare the way I a
 
 *Day 2: The player performance data was from the [Official NBA Stats site](https://www.nba.com/stats), and the Instagram data was from [this website](https://www.popularbasketballers.com/), which gathers Instagram data for popular basketball players and is updated regularly. The visualization was made using Tableau.*
 
-*Day 3:  I used the seaborn package in python to create this chart, and the data was calculated from my own life experiences.*
+*Day 3:  I used the seaborn package in Python to create this chart, and the data was calculated from my own life experiences.*
