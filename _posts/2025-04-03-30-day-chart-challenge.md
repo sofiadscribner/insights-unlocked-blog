@@ -60,4 +60,4 @@ My visualization for today ranks the top 5 most popular fields people graduate i
 
 *Day 4: I used Tableau to create the visualization, and the data came from this indicator on [data.worldbank.org](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD)*
 
-*Day 5: I used ggplot in R to create the visualization, as well as adding the BYU logo using ggimage. The data came from [BYU's official data page](https://data.byu.edu/0000018f-0714-d406-a19f-c75e9aca0000/cds-2023-2024-pdf).
+*Day 5: I used ggplot in R to create the visualization, as well as adding the BYU logo using ggimage. The data came from [BYU's official data page](https://data.byu.edu/0000018f-0714-d406-a19f-c75e9aca0000/cds-2023-2024-pdf)*
