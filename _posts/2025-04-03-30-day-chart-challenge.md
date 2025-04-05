@@ -43,6 +43,13 @@ For today's chart challenge, I chose to use a donut chart to compare the way I a
 
 For today's prompt, I wanted to visualize the difference in per capita GDP between the richest and poorest country. I also added the United States as a point of reference. I played around with the colors and labels a bit on this one, and I'm happy with how it turned out. I think it communicates the message clearly.
 
+#### Day 5 - Ranking
+
+![Figure 5](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/byu_plot.png)
+
+My visualization for today ranks the top 5 most popular fields people graduate in at byu. This simple bar chart ended up being surprisingly tricky to do in R, and it was my first time using the ggimage package to include an image, so I leearned a lot.
+
+
 ##### Footnotes
 
 *Day 1: I used Tableau to create the chart, and I got the data from [this KS&R article about influencer marketing](https://www.ksrinc.com/how-much-influence-influencers-have/).*
@@ -52,3 +59,5 @@ For today's prompt, I wanted to visualize the difference in per capita GDP betwe
 *Day 3:  I used the seaborn package in Python to create this chart, and the data was calculated from my own life experiences.*
 
 *Day 4: I used Tableau to create the visualization, and the data came from this indicator on [data.worldbank.org](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD)*
+
+*Day 5: I used ggplot in R to create the visualization, as well as adding the BYU logo using ggimage. The data came from [BYU's official data page](https://data.byu.edu/0000018f-0714-d406-a19f-c75e9aca0000/cds-2023-2024-pdf).
