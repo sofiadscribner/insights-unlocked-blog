@@ -47,7 +47,7 @@ For today's prompt, I wanted to visualize the difference in per capita GDP betwe
 
 ![Figure 5](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/byu_plot.png)
 
-My visualization for today ranks the top 5 most popular fields people graduate in at my school, Brigham Young University. This simple bar chart ended up being surprisingly tricky to do in R, and it was my first time using the ggimage package to include an image, so I learned a lot.
+My visualization for today ranks the top 5 most popular fields people graduate in at my school, Brigham Young University. This bar chart ended up being surprisingly tricky to do in R because of the extra details I wanted to add, and it was my first time using the ggimage package to include an image, so I learned a lot.
 
 
 ##### Footnotes
