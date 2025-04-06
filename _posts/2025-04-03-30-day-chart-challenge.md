@@ -49,6 +49,13 @@ For today's prompt, I wanted to visualize the difference in per capita GDP betwe
 
 My visualization for today ranks the top 5 most popular fields people graduate in at my school, Brigham Young University. This bar chart ended up being surprisingly tricky to do in R because of the extra details I wanted to add, and it was my first time using the ggimage package to include an image, so I learned a lot.
 
+#### Day 6 - Florence Nightingale
+
+![Figure 6](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/crime.png)
+
+Today's visualization, inspired by Florence Nightingale's famous Crimean War chart, represents the distribution of violent crime types over the past year in Baltimore. These rose charts are very aesthetically pleasing and I think they communicate well. However, they're limited by the lack of numerical labeling. In the future, I'd make a tooltip to help with that;
+
+
 
 ##### Footnotes
 
