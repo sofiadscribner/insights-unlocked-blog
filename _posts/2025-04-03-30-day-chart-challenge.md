@@ -68,3 +68,5 @@ Today's visualization, inspired by Florence Nightingale's famous Crimean War cha
 *Day 4: I used Tableau to create the visualization, and the data came from this indicator on [data.worldbank.org](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD).*
 
 *Day 5: I used ggplot in R to create the visualization, as well as adding the BYU logo using ggimage. The data came from [BYU's official data page](https://data.byu.edu/0000018f-0714-d406-a19f-c75e9aca0000/cds-2023-2024-pdf),*
+
+*Day 6: I used Python to wrangle the data and create the visualization, and the Baltimore crime data can be found at [this link](https://data.baltimorecity.gov/datasets/baltimore::nibrs-group-a-crime-data/about).*
