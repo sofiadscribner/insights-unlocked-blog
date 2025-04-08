@@ -53,9 +53,15 @@ My visualization for today ranks the top 5 most popular fields people graduate i
 
 ![Figure 6](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/crime.png)
 
-Today's visualization, inspired by Florence Nightingale's famous Crimean War chart, represents the distribution of violent crime types over the past year in Baltimore. These rose charts are very aesthetically pleasing and I think they communicate well. However, they're limited by the lack of numerical labeling. In the future, I'd make a tooltip to help with that;
+Today's visualization, inspired by Florence Nightingale's famous Crimean War chart, represents the distribution of violent crime types over the past year in Baltimore. These rose charts are very aesthetically pleasing and I think they communicate well. However, they're limited by the lack of numerical labeling. In the future, I'd make a tooltip to help with that.
 
+### Category 2: Distributions
 
+#### Day 7 - Outliers
+
+![Figure 7](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/gini.png)
+
+While they can be a little tricky for people less fluent in data to conceptualize, I still think boxplots are a great way to clearly show outliers. This visualization shows the distribution of the Gini coefficient among the countries of the world, with four clear outliers.
 
 ##### Footnotes
 
@@ -70,3 +76,5 @@ Today's visualization, inspired by Florence Nightingale's famous Crimean War cha
 *Day 5: I used ggplot in R to create the visualization, as well as adding the BYU logo using ggimage. The data came from [BYU's official data page](https://data.byu.edu/0000018f-0714-d406-a19f-c75e9aca0000/cds-2023-2024-pdf),*
 
 *Day 6: I used Python to wrangle the data and create the visualization, and the Baltimore crime data can be found at [this link](https://data.baltimorecity.gov/datasets/baltimore::nibrs-group-a-crime-data/about).*
+
+*Day 7: I used Tableau for the visualization, and the Gini index data was downloaded at [this link](https://worldpopulationreview.com/country-rankings/gini-coefficient-by-country).*
