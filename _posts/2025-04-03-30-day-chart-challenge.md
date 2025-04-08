@@ -85,4 +85,4 @@ Today I wanted to share one of my very favorite visualizations that we made in m
 
 *Day 7: I used Tableau for the visualization, and the Gini index data was downloaded at [this link](https://worldpopulationreview.com/country-rankings/gini-coefficient-by-country).*
 
-*Day 8: The visualization was made in Tableau, and the data was obtained by my professor from [this article](https://www.science.org/doi/10.1126/sciadv.aaw2594).*
+*Day 8: The visualization was made in Tableau, and the data was obtained by my professor from [this article](https://www.science.org/doi/10.1126/sciadv.aaw2594). We took inspiration from their use of histograms, as well as this version from [The Economist](https://www.economist.com/graphic-detail/2019/09/28/why-are-some-languages-spoken-faster-than-others)*
