@@ -63,6 +63,12 @@ Today's visualization, inspired by Florence Nightingale's famous Crimean War cha
 
 This visualization shows the distribution of the Gini coefficient among the countries of the world, with four obvious outliers. While they can be a little tricky for people less fluent in data to conceptualize, I still think boxplots are a great way to clearly show outliers.
 
+#### Day 8 - Histogram
+
+![Figure 8](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/languages.png)
+
+Today I wanted to share one of my very favorite visualizations that we made in my recent Data Visualization course. I made these histograms (with guidance from my incredible professor, Dr. Natalie Blades) as a way to compare the language efficiency (in information per syllable) among different languages and language families.
+
 ##### Footnotes
 
 *Day 1: I used Tableau to create the chart, and I got the data from [this KS&R article about influencer marketing](https://www.ksrinc.com/how-much-influence-influencers-have/).*
@@ -78,3 +84,5 @@ This visualization shows the distribution of the Gini coefficient among the coun
 *Day 6: I used Python to wrangle the data and create the visualization, and the Baltimore crime data can be found at [this link](https://data.baltimorecity.gov/datasets/baltimore::nibrs-group-a-crime-data/about).*
 
 *Day 7: I used Tableau for the visualization, and the Gini index data was downloaded at [this link](https://worldpopulationreview.com/country-rankings/gini-coefficient-by-country).*
+
+*Day 8: The visualization was made in Tableau, and the data was obtained by my professor from [this article](https://www.science.org/doi/10.1126/sciadv.aaw2594).*
