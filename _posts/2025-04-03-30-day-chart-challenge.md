@@ -61,7 +61,7 @@ Today's visualization, inspired by Florence Nightingale's famous Crimean War cha
 
 ![Figure 7](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/gini.png)
 
-While they can be a little tricky for people less fluent in data to conceptualize, I still think boxplots are a great way to clearly show outliers. This visualization shows the distribution of the Gini coefficient among the countries of the world, with four clear outliers.
+This visualization shows the distribution of the Gini coefficient among the countries of the world, with four obvious outliers. While they can be a little tricky for people less fluent in data to conceptualize, I still think boxplots are a great way to clearly show outliers.
 
 ##### Footnotes
 
