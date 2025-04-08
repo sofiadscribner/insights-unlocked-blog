@@ -67,7 +67,7 @@ This visualization shows the distribution of the Gini coefficient among the coun
 
 ![Figure 8](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/languages.png)
 
-Today I wanted to share one of my very favorite visualizations that we made in my recent Data Visualization course. I made these histograms (with guidance from my incredible professor, Dr. Natalie Blades) as a way to compare the language efficiency (in information per syllable) among different languages and language families.
+Today I wanted to share one of my very favorite visualizations that we made in my recent Data Visualization course. I made these histograms (with guidance from my incredible professor, Dr. Natalie Blades) as a way to compare the language efficiency among different languages and language families.
 
 ##### Footnotes
 
