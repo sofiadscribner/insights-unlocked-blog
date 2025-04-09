@@ -69,6 +69,10 @@ This visualization shows the distribution of the Gini coefficient among the coun
 
 Today I wanted to share one of my very favorite visualizations that we made in my recent Data Visualization course. I made these histograms (with guidance from my incredible professor, Dr. Natalie Blades) as a way to compare the language efficiency among different languages and language families.
 
+#### Day 9 -  Diverging
+
+![Figure 9](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tariffs.png)
+
 ##### Footnotes
 
 *Day 1: I used Tableau to create the chart, and I got the data from [this KS&R article about influencer marketing](https://www.ksrinc.com/how-much-influence-influencers-have/).*
@@ -86,3 +90,5 @@ Today I wanted to share one of my very favorite visualizations that we made in m
 *Day 7: I used Tableau for the visualization, and the Gini index data was downloaded at [this link](https://worldpopulationreview.com/country-rankings/gini-coefficient-by-country).*
 
 *Day 8: The visualization was made in Tableau, and the data was obtained by my professor from [this article](https://www.science.org/doi/10.1126/sciadv.aaw2594). We took inspiration from their use of histograms, as well as this version from [The Economist](https://www.economist.com/graphic-detail/2019/09/28/why-are-some-languages-spoken-faster-than-others)*
+
+*Day 9: Diverging bar chart made using Tableau, data from [YouGov report](https://d3nkl3psvxxpe9.cloudfront.net/documents/Tariffs_poll_results.pdf).*
