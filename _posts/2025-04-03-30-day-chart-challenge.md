@@ -73,6 +73,8 @@ Today I wanted to share one of my very favorite visualizations that we made in m
 
 ![Figure 9](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tariffs.png)
 
+I think diverging bar charts are a really effective way to display Likert scale polling data. When I read today's prompt, I immediately thought of the polarizing tariffs recently put into place by President Trump. While I'm most interested in becoming a business analyst, I find politcal data fascinating and important. 
+
 ##### Footnotes
 
 *Day 1: I used Tableau to create the chart, and I got the data from [this KS&R article about influencer marketing](https://www.ksrinc.com/how-much-influence-influencers-have/).*
