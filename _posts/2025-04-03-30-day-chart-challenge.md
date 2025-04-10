@@ -69,11 +69,17 @@ This visualization shows the distribution of the Gini coefficient among the coun
 
 Today I wanted to share one of my very favorite visualizations that we made in my recent Data Visualization course. I made these histograms (with guidance from my incredible professor, Dr. Natalie Blades) as a way to compare the language efficiency among different languages and language families.
 
-#### Day 9 -  Diverging
+#### Day 9 - Diverging
 
 ![Figure 9](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/tariffs.png)
 
-I think diverging bar charts are a really effective way to display Likert scale polling data. When I read today's prompt, I immediately thought of the polarizing tariffs recently put into place by President Trump. While I'm most interested in becoming a business analyst, I find politcal data fascinating and important. 
+I think diverging bar charts are a really effective way to display Likert scale polling data. When I read today's prompt, I immediately thought of the polarizing tariffs recently put into place by President Trump. While I'm most interested in becoming a business analyst, I find politcal data fascinating and important.
+
+#### Day 10 - Multi-modal
+
+![Figure 10](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/life.png)
+
+When I thought of data with multiple modes or centers, I thought of this life expectancy data. There is a clear difference between the distributions for different country groups (the OECD is an organization of high-income, well-developed countries).
 
 ##### Footnotes
 
@@ -94,3 +100,5 @@ I think diverging bar charts are a really effective way to display Likert scale 
 *Day 8: The visualization was made in Tableau, and the data was obtained by my professor from [this article](https://www.science.org/doi/10.1126/sciadv.aaw2594). We took inspiration from their use of histograms, as well as this version from [The Economist](https://www.economist.com/graphic-detail/2019/09/28/why-are-some-languages-spoken-faster-than-others)*
 
 *Day 9: Diverging bar chart made using Tableau, data from [YouGov report](https://d3nkl3psvxxpe9.cloudfront.net/documents/Tariffs_poll_results.pdf).*
+
+*Day 10: Graph made using R, data can be found in my [Github Repo](https://github.com/sofiadscribner/30-day-chart-challenge/tree/main/day-9).*
