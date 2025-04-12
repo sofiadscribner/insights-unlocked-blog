@@ -81,6 +81,12 @@ I think diverging bar charts are a really effective way to display Likert scale 
 
 When I thought of data with multiple modes or centers, I thought of this life expectancy data. There is a clear difference between the distributions for different country groups (the OECD is an organization of high-income, well-developed countries).
 
+#### Day 11 - Stripes
+
+![Figure 11](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/stripes.png)
+
+This style of visualization, famously used to show climate chage data, felt like a good fit for this Utah drought data from the U.S. Drought Monitor. The darkness of the stripe indicates what percent of the state of Utah was experiencing some level of drought that week.
+
 ##### Footnotes
 
 *Day 1: I used Tableau to create the chart, and I got the data from [this KS&R article about influencer marketing](https://www.ksrinc.com/how-much-influence-influencers-have/).*
@@ -102,3 +108,5 @@ When I thought of data with multiple modes or centers, I thought of this life ex
 *Day 9: Diverging bar chart made using Tableau, data from [YouGov report](https://d3nkl3psvxxpe9.cloudfront.net/documents/Tariffs_poll_results.pdf).*
 
 *Day 10: Graph made using R, data can be found in my [Github Repo](https://github.com/sofiadscribner/30-day-chart-challenge/tree/main/day-9).*
+
+*Day 11: Graph created using R, data from [U.S. Drought Moniter](https://droughtmonitor.unl.edu/DmData/DataTables.aspx). I followed an awesome [tutorial from Dr Dominic Royé](https://dominicroye.github.io/blog/how-to-create-warming-stripes-in-r/index.html).*
