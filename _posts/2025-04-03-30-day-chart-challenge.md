@@ -87,6 +87,12 @@ When I thought of data with multiple modes or centers, I thought of this life ex
 
 This style of visualization, famously used to show climate chage data, felt like a good fit for this Utah drought data from the U.S. Drought Monitor. The darkness of the stripe indicates what percent of the state of Utah was experiencing some level of drought that week.
 
+#### Day 12 - Data.gov
+
+![Figure 12](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/wealth.png)
+
+I wanted to use tax data from data.gov to figure out the distribution of high-income households in the state of Utah. I had to do a bit data wrangling buT I think it turned out great! It's much better to view using the interactive tooltip, which you can check out on my [Tableau Public](https://public.tableau.com/app/profile/sofia.scribner/viz/WhereareUtahsWealthiest/WhereareUtahsWealthiest).
+
 ##### Footnotes
 
 *Day 1: I used Tableau to create the chart, and I got the data from [this KS&R article about influencer marketing](https://www.ksrinc.com/how-much-influence-influencers-have/).*
@@ -110,3 +116,5 @@ This style of visualization, famously used to show climate chage data, felt like
 *Day 10: Graph made using R, data can be found in my [Github Repo](https://github.com/sofiadscribner/30-day-chart-challenge/tree/main/day-9).*
 
 *Day 11: Graph created using R, data from [U.S. Drought Moniter](https://droughtmonitor.unl.edu/DmData/DataTables.aspx). I followed an awesome [tutorial from Dr Dominic Royé](https://dominicroye.github.io/blog/how-to-create-warming-stripes-in-r/index.html).*
+
+*Day 12: Map created in Tableau, data from [data.gov](https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2022-zip-code-data-soi).*
