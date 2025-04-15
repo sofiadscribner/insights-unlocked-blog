@@ -93,9 +93,7 @@ This style of visualization, famously used to show climate chage data, felt like
 
 I wanted to use tax data from data.gov to figure out the distribution of high-income households in the state of Utah. I had to do a bit data wrangling buT I think it turned out great! It's much better to view using the interactive tooltip, which you can check out on my [Tableau Public](https://public.tableau.com/app/profile/sofia.scribner/viz/WhereareUtahsWealthiest/WhereareUtahsWealthiest).
 
-### Category 3: Relationships
-
-#### Day 13 - Clusters
+### I am in the throes of final exams and have decided to take a break from this project. Check back soon for updates!
 
 ##### Footnotes
 
