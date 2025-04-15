@@ -15,4 +15,20 @@ The Super Bowl is perhaps the most important marketing event of the year, and br
 
 ### A Word on Streamlit
 
-This was my first time using Streamlit for a personal project, and can I just say, it is awesome! I have never seen such an easy and seamless way to integrate and present interactive visualizations. For anyone who knows Python, it's very intuitive. I highly reccommend giving it a try. The documentation can be found [here](https://docs.streamlit.io/), and you can check out my code for this entire project in [this GitHub repo](https://github.com/sofiadscribner/Super_Bowl_Project).
+This was my first time using Streamlit for a personal project, and can I just say, it is awesome! I have never seen such an easy and seamless way to integrate and present interactive visualizations. For anyone who knows Python, it's very intuitive. I highly reccommend giving it a try. The documentation can be found [here](https://docs.streamlit.io/), and you can check out my code for this entire project in [this GitHub repo](https://github.com/sofiadscribner/Super_Bowl_Project). Now let's get into the analysis!
+
+### Interesting Findings
+
+Some of the most interesting findings from my exploratory data analysis were already mentioned in my last post. I mentioned the ads with the most YouTube views, the best view-to-like ratio, what proportion of ads included celebrities, and what proportion of ads experienced a 5-year peak in Google search popularity on the week of their Big Game ad.
+
+One thing I didn't dive into as much was the marketing polling data I gathered. This visualization, featured in my Streamlit app, is a lollipop chart showing the brands that gained the most momentum with customers, according to polling data from [The Harris Poll](https://theharrispoll.com/insights-news/reports/sports-and-events-brand-sponsorships/brand-bowl-2024/).
+
+![Figure 1](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/lollipop.png)
+
+### My Streamlit App
+
+All of the different angles of analysis that I've mentioned and more can be explored using my Streamlit app, linked [here](https://super-bowl-2024.streamlit.app/)! The app is separated into tabs for YouTube Stats, Google Trends, Polling Data, and Celebrity Influence. There are lots of different ways to filter and adjust the data, so check it out. I'm excited to hear what observations you make.
+
+### What Now?
+
+Going forward, I hope to eventually use this data, and gather more like it, to create a predictive model that helps determine whether an ad will have a good return on investment. If you have any ideas, or want to learn more about how I made it this far, please reach out on [LinkedIn](https://www.linkedin.com/in/sofia-scribner/)!
