@@ -29,7 +29,11 @@ Interestingly, Disney's streaming service Disney+ made the top of this list. Dis
 
 #### My Streamlit App
 
-All of the different angles of analysis that I've mentioned and more can be explored using my Streamlit app, linked [here](https://super-bowl-2024.streamlit.app/)! The app is separated into tabs for YouTube Stats, Google Trends, Polling Data, and Celebrity Influence. There are lots of different ways to filter and adjust the data, so check it out. I'm excited to hear what observations you make.
+All of the different angles of analysis that I've mentioned and more can be explored using my Streamlit app, linked [here](https://super-bowl-2024.streamlit.app/)! 
+
+![Figure 2](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/app_preview.png)
+
+The app is separated into tabs for YouTube Stats, Google Trends, Polling Data, and Celebrity Influence. There are lots of different ways to filter and adjust the data, so check it out. I'm excited to hear what observations you make.
 
 #### What Now?
 
