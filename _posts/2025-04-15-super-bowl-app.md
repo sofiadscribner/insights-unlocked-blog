@@ -33,7 +33,14 @@ All of the different angles of analysis that I've mentioned and more can be expl
 
 ![Figure 2](https://sofiadscribner.github.io/insights-unlocked-blog/assets/img/app_preview.png)
 
-The app is separated into tabs for YouTube Stats, Google Trends, Polling Data, and Celebrity Influence. There are lots of different ways to filter and adjust the data, so check it out. I'm excited to hear what observations you make.
+The app is separated into tabs for YouTube Stats, Google Trends, Polling Data, and Celebrity Influence. There are lots of different ways to filter and adjust the data. Feel free to:
+
+- Control how many video engagement stats to view and in what order
+- Use the dropdown to select a brand and explore its Google popularity after releasing its ad
+- Explore a marketing metric of interest
+- Segment the celebrity influence data based on different measures of success 
+
+I'm excited to hear about the observations you make.
 
 #### What Now?
 
